@@ -1,1 +1,1 @@
-# Explore different tools of machine learning with python.
+# Explore different tools of AI with python.
